@@ -5,11 +5,11 @@
 
    
     @include('frontend.home')
-     @include('frontend.contact')
+     <!-- @include('frontend.contact')
     @include('frontend.about')
     @include('frontend.gallery')
      @include('frontend.news')
-    @include('frontend.staff')
+    @include('frontend.staff') -->
 
     @include('frontend.components.footer')
 

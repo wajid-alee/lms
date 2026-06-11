@@ -10,11 +10,11 @@
           </div>
 
           <div class="col-6 col-lg-3 text-right">
-            <a href="login.html" class="small mr-3">
+            <a href="{{ route('login') }}" class="small mr-3">
               <span class="icon-lock"></span>
               Log In
             </a>
-            <a href="register.html" class="small">
+            <a href="{{ route('register') }}" class="small">
               <span class="icon-person"></span>
               Register
             </a>
@@ -26,30 +26,15 @@
     <div class="sticky-nav js-sticky-header">
       <div class="container position-relative">
         <div class="site-navigation text-center">
-          <a href="index.html" class="logo menu-absolute m-0">Learner<span class="text-primary">.</span></a>
+          <a href="{{ route('index') }}" class="logo menu-absolute m-0">Learner<span class="text-primary">.</span></a>
 
           <ul class="js-clone-nav d-none d-lg-inline-block site-menu">
-            <li class="active"><a href="index.html">Home</a></li>
-            <li class="has-children">
-              <a href="#">Dropdown</a>
-              <ul class="dropdown">
-                <li><a href="elements.html">Elements</a></li>
-                <li class="has-children">
-                  <a href="#">Menu Two</a>
-                  <ul class="dropdown">
-                    <li><a href="#">Sub Menu One</a></li>
-                    <li><a href="#">Sub Menu Two</a></li>
-                    <li><a href="#">Sub Menu Three</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Menu Three</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ route('staff') }}">Our Staff</a></li>
-            <li><a href="{{ route('news') }}">News</a></li>
-            <li><a href="{{ route('gallery') }}">Gallery</a></li>
-            <li><a href="{{ route('about') }}">About</a></li>
-            <li><a href="{{ route('contact') }}">Contact</a></li>
+            <li class="active"><a href="{{ route('index') }}">Home</a></li>
+            <li><a href="#staff">Staff</a></li>
+            <li><a href="#courses">Courses</a></li>
+            <li><a href="#news" >News</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#about">About</a></li>
           </ul>
 
           <a href="#" class="btn-book btn btn-secondary btn-sm menu-absolute">Enroll Now</a>

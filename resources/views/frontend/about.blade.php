@@ -1,5 +1,5 @@
 
-  <div class="untree_co-hero overlay" style="background-image: url('frontend/images/img-school-1-min.jpg');">
+  <div id="about" class="untree_co-hero overlay" style="background-image: url('frontend/images/img-school-1-min.jpg');">
     <div class="container">
       <div class="row align-items-center justify-content-center">
         <div class="col-12">

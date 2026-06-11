@@ -229,7 +229,7 @@
   </div> <!-- /.untree_co-section -->
 
 
-  <div class="untree_co-section bg-light">
+  <div id="courses" class="untree_co-section bg-light">
     <div class="container"> 
       <div class="row justify-content-center mb-5">
         <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="0">
