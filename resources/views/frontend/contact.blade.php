@@ -6,10 +6,7 @@
             <div class="col-lg-6 text-center ">
               <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">Contact Us</h1>
               <div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
-                <p>Another free template by <a href="https://untree.co/" target="_blank" class="link-highlight">Untree.co</a>. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live.</p>
-              </div>
-
-              <p class="mb-0" data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-secondary">Explore courses</a></p>
+                <p>Contact Apex Suite for course inquiries, enrollment help, or technical support on your learning journey.</p>
 
             </div>
 
@@ -36,28 +33,28 @@
             <div class="address mt-4">
               <i class="icon-room"></i>
               <h4 class="mb-2">Location:</h4>
-              <p>43 Raymouth Rd. Baltemoer, London 3910</p>
+              <p>123 Apex Lane, Suite 100, Cityville, USA</p>
             </div>
 
             <div class="open-hours mt-4">
               <i class="icon-clock-o"></i>
               <h4 class="mb-2">Open Hours:</h4>
               <p>
-                Sunday-Friday:<br>
-                11:00 AM - 2300 PM
+                Monday-Friday:<br>
+                9:00 AM - 6:00 PM
               </p>
             </div>
 
             <div class="email mt-4">
               <i class="icon-envelope"></i>
               <h4 class="mb-2">Email:</h4>
-              <p>info@Untree.co</p>
+              <p>info@apexsuite.com</p>
             </div>
 
             <div class="phone mt-4">
               <i class="icon-phone"></i>
               <h4 class="mb-2">Call:</h4>
-              <p>+1 1234 55488 55</p>
+              <p>+1 (800) 555-0123</p>
             </div>
 
           </div>

@@ -4,9 +4,9 @@
         <div class="row align-items-center">
 
           <div class="col-6 col-lg-9">
-            <a href="#" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> <span class="d-none d-lg-inline-block">Have a questions?</span></a> 
-            <a href="#" class="small mr-3"><span class="icon-phone mr-2"></span> <span class="d-none d-lg-inline-block">10 20 123 456</span></a> 
-            <a href="#" class="small mr-3"><span class="icon-envelope mr-2"></span> <span class="d-none d-lg-inline-block">info@mydomain.com</span></a> 
+            <a href="#" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> <span class="d-none d-lg-inline-block">Have questions?</span></a> 
+            <a href="tel:+18005550123" class="small mr-3"><span class="icon-phone mr-2"></span> <span class="d-none d-lg-inline-block">+1 (800) 555-0123</span></a> 
+            <a href="mailto:info@apexsuite.com" class="small mr-3"><span class="icon-envelope mr-2"></span> <span class="d-none d-lg-inline-block">info@apexsuite.com</span></a> 
           </div>
 
           <div class="col-6 col-lg-3 text-right">
@@ -26,7 +26,7 @@
     <div class="sticky-nav js-sticky-header">
       <div class="container position-relative">
         <div class="site-navigation text-center">
-          <a href="{{ route('index') }}" class="logo menu-absolute m-0">Learner<span class="text-primary">.</span></a>
+          <a href="{{ route('index') }}" class="logo menu-absolute m-0">Apex Suite<span class="text-primary">.</span></a>
 
           <ul class="js-clone-nav d-none d-lg-inline-block site-menu">
             <li class="active"><a href="{{ route('index') }}">Home</a></li>

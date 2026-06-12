@@ -3,8 +3,8 @@
       <div class="row">
         <div class="col-lg-3 mr-auto">
           <div class="widget">
-            <h3>About Us<span class="text-primary">.</span> </h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3>About Apex Suite<span class="text-primary">.</span> </h3>
+            <p>Apex Suite is a learning platform offering expert-led courses, practical training, and support for learners and educators.</p>
           </div> <!-- /.widget -->
           <div class="widget">
             <h3>Connect</h3>
@@ -56,11 +56,10 @@
         <div class="col-lg-3">
           <div class="widget">
             <h3>Contact</h3>
-            <address>43 Raymouth Rd. Baltemoer, London 3910</address>
+            <address>123 Apex Lane, Suite 100, Cityville, USA</address>
             <ul class="list-unstyled links mb-4">
-              <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
-              <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
-              <li><a href="mailto:info@mydomain.com">info@mydomain.com</a></li>
+              <li><a href="tel:+18005550123">+1 (800) 555-0123</a></li>
+              <li><a href="mailto:info@apexsuite.com">info@apexsuite.com</a></li>
             </ul>
           </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
@@ -69,7 +68,7 @@
 
       <div class="row mt-5">
         <div class="col-12 text-center">
-          <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a>  Distributed By <a href="https://themewagon.com">ThemeWagon</a> <!-- License information: https://untree.co/license/ -->
+          <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Apex Suite</p>
           </div>
         </div>
       </div> <!-- /.container -->

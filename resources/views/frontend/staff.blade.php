@@ -4,9 +4,9 @@
         <div class="col-12">
           <div class="row justify-content-center ">
             <div class="col-lg-6 text-center ">
-              <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">School Staff</h1>
+              <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">Meet Our Staff</h1>
               <div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
-                <p>Another free template by <a href="https://untree.co/" target="_blank" class="link-highlight">Untree.co</a>. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live.</p>
+                <p>Our team of instructors, content creators, and support staff empower learners with practical skills and modern training programs.</p>
               </div>
 
               <p class="mb-0" data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-secondary">Explore courses</a></p>
@@ -32,8 +32,8 @@
             <div class="mb-4"><img src="frontend/images/staff_1.jpg" alt="Image" class="img-fluid"></div>
             <div class="staff-body">
               <h3 class="staff-name">Mina Collins</h3>
-              <span class="d-block position mb-4">Teacher in Math</span>
-              <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <span class="d-block position mb-4">Math Instructor</span>
+              <p class="mb-4">A dedicated math educator who creates clear, practical lessons and supports student success from fundamentals to advanced topics.</p>
               <div class="social">
                 <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
                 <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
@@ -47,8 +47,8 @@
             <div class="mb-4"><img src="frontend/images/staff_2.jpg" alt="Image" class="img-fluid"></div>
             <div class="staff-body">
               <h3 class="staff-name">Anderson Matthew</h3>
-              <span class="d-block position mb-4">Teacher in Music</span>
-              <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <span class="d-block position mb-4">Music Instructor</span>
+              <p class="mb-4">A creative music instructor who blends theory and performance to inspire students across digital and live learning experiences.</p>
               <div class="social">
                 <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
                 <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
@@ -62,8 +62,8 @@
             <div class="mb-4"><img src="frontend/images/staff_3.jpg" alt="Image" class="img-fluid"></div>
             <div class="staff-body">
               <h3 class="staff-name">Cynthia Misso</h3>
-              <span class="d-block position mb-4">Teacher English</span>
-              <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <span class="d-block position mb-4">English Instructor</span>
+              <p class="mb-4">A communications specialist focused on helping learners improve writing, reading, and professional language skills.</p>
               <div class="social">
                 <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
                 <a href="#" class="mx-2"><span class="icon-twitter"></span></a>

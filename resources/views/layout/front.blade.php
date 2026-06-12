@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="author" content="Untree.co">
+  <meta name="author" content="Apex Suite">
   <link rel="shortcut icon" href="favicon.png">
 
-  <meta name="description" content="" />
-  <meta name="keywords" content="bootstrap, bootstrap4" />
+  <meta name="description" content="Apex Suite offers modern online courses, learning tools, and student support for career growth." />
+  <meta name="keywords" content="online learning, LMS, courses, education, training" />
 
   <link href="https://fonts.googleapis.com/css2?family=Display+Playfair:wght@400;700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="{{ asset('frontend/css/aos.css') }}">
   <link rel="stylesheet" href="{{ asset('frontend/css/style.css') }}">
 
-  <title>ؒLMS</title>
+  <title>Apex Suite | Learning Platform</title>
 </head>
 
 <body>
